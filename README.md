@@ -7,3 +7,11 @@ Machine learning model to classify people facial expressions.\\
   <img  src="facial-expressions.jpg"></p>
 
 *Example dataset*
+
+<p align="center">
+  <img  src="facial_classification_results.png"></p>
+
+*Result*
+
+
+
