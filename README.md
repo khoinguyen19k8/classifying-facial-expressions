@@ -1,6 +1,4 @@
 # Classification of Facial Expressions
-All final code are in the 'submission folder'.
-Report and analysis is in the 'Template Report for Introduction to Machine Learning' file.
 
 Machine learning model to classify people facial expressions.\\
 <p align="center">
@@ -14,5 +12,6 @@ Machine learning model to classify people facial expressions.\\
 *Result*
 
 # Regression to estimate the width of a grey kanaroo's nose
+https://docs.google.com/viewer?url=$https://github.com/khoinguyen19k8/classifying-facial-expressions/new-report.pdf
 
 
