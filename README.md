@@ -1,17 +1,5 @@
-# Classification of Facial Expressions
+# Classification of Facial Expressions and Regression to estimate the width of a grey kanaroo's nose
 
-Machine learning model to classify people facial expressions.\\
-<p align="center">
-  <img  src="facial-expressions.jpg"></p>
-
-*Example dataset*
-
-<p align="center">
-  <img  src="facial_classification_results.png"></p>
-
-*Result*
-
-# Regression to estimate the width of a grey kanaroo's nose
-https://docs.google.com/viewer?url=https://github.com/khoinguyen19k8/classifying-facial-expressions/new-report.pdf
+Please check the pdf file new-report.pdf for the description, implementations, and results of the models
 
 
