@@ -1,0 +1,7 @@
+Model,Feature selection/Dim reduction,Best hyperparamaters,Training time (s),Accuracy,Precision*,Recall*,F1 score*
+Knn (k = 1),Raw,Baseline,0.0015,0.7832,0.7662,0.6952,0.7176
+Logistics Regression,PCA,'C': 0.5,1.0263,0.8761,0.8540,0.8707,0.8608
+Decision Trees + Gradient Boosting,Random Forests,'max_depth': 4;'max_features': 'sqrt',5.8852,0.8938,0.8756,0.8667,0.8705
+SVM,PCA,'C':10.0;'gamma':'scale',0.1618,0.9115,0.9013,0.8745,0.8859
+Hard voting learner,Raw,LogReg + GradientBoostTrees + SVM,20.2147,0.9248,0.9393,0.8876,0.9071 
+Convolutional NN,Standardized,'learning_rate': 0.0001,27.7706, 0.9779, 0.9682, 0.9782, 0.9730
